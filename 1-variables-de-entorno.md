@@ -15,6 +15,7 @@ C:\Users\P3E010-D>docker run -d --name contenedor777 -e username=user123 -e role
 ```
 <img width="1121" height="74" alt="image" src="https://github.com/user-attachments/assets/17c700ea-9330-43a6-949e-9fdb377147e6" />
 
+<img width="969" height="757" alt="image" src="https://github.com/user-attachments/assets/6b01e1b0-6a50-46de-8392-aabb9e780735" />
 
 
 
