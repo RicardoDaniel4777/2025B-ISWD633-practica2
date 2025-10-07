@@ -10,10 +10,12 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 ```
 
 ### Crear un contenedor a partir de la imagen de nginx:alpine con las siguientes variables de entorno: username y role. Para la variable de entorno rol asignar el valor admin.
+```
+C:\Users\P3E010-D>docker run -d --name contenedor777 -e username=user123 -e role=admin nginx:alpine
+```
+<img width="1121" height="74" alt="image" src="https://github.com/user-attachments/assets/17c700ea-9330-43a6-949e-9fdb377147e6" />
 
-# COMPLETAR
 
-# CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
 
 ### Crear un contenedor con la imagen de mysql, mapear todos los puertos
 # COMPLETAR
