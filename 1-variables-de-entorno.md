@@ -45,4 +45,5 @@ La contraseña del root es una de los problemas para que no funcione, pero como 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR 
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-# COMPLETAR
+<img width="918" height="629" alt="image" src="https://github.com/user-attachments/assets/fc96e7e7-993f-40d8-b5cd-bb2d212b97cb" />
+
