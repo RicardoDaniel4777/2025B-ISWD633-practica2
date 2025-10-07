@@ -20,7 +20,8 @@ C:\Users\P3E010-D>docker run -d --name contenedor777 -e username=user123 -e role
 
 
 ### Crear un contenedor con la imagen de mysql, mapear todos los puertos
-# COMPLETAR
+<img width="1049" height="406" alt="image" src="https://github.com/user-attachments/assets/dfdb6da7-3930-4cc7-83be-eb30961f3da7" />
+
 
 ### ¿El contenedor se está ejecutando?
 # COMPLETAR
