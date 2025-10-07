@@ -24,10 +24,13 @@ C:\Users\P3E010-D>docker run -d --name contenedor777 -e username=user123 -e role
 
 
 ### ¿El contenedor se está ejecutando?
-# COMPLETAR
+
+Si se esta ejecutando porque al crear el contenedor si se registro variables de entorno.
 
 ### Identificar el problema
-# COMPLETAR
+La contraseña del root es una de los problemas para que no funcione, pero como si se creo el contenedor con una no hubo problema.
+<img width="1874" height="422" alt="image" src="https://github.com/user-attachments/assets/a60c1fdd-b3cc-4246-a304-37e87ebfe903" />
+
 
 ### Para crear un contenedor con variables de entorno especificadas
 - Portabilidad: Las aplicaciones se vuelven más portátiles y pueden ser desplegadas en diferentes entornos (desarrollo, pruebas, producción) simplemente cambiando el archivo de variables de entorno.
