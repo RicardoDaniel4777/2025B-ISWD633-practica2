@@ -3,9 +3,21 @@
 
 ### Crear la red
 # COMPLETAR
+```
+docker network create net-wp
+```
+
+<img width="721" height="82" alt="image" src="https://github.com/user-attachments/assets/51b1d262-977a-43a7-a51d-372af0bf90a9" />
+
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
-# COMPLETAR
+
+```
+docker run --name contenedorMysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8
+```
+<img width="1109" height="384" alt="image" src="https://github.com/user-attachments/assets/c0fc1798-a8aa-4c98-acb6-3fc9fcbdd0e2" />
+
+
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR
