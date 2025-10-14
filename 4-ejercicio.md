@@ -21,8 +21,9 @@ docker run --name contenedorMysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR
+<img width="903" height="746" alt="image" src="https://github.com/user-attachments/assets/ae39e8ac-2eea-422a-b068-a60ba83467f2" />
 
-De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
+De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(9300)**
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
