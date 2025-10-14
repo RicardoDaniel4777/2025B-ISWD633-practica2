@@ -13,9 +13,9 @@ docker network create net-wp
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
 
 ```
-docker run --name contenedorMysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8
+docker run --name contenedorMysql --network net-wp -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=wordpress -e MYSQL_USER=wpuser -e MYSQL_PASSWORD=wppassword -d mysql:8
 ```
-<img width="1109" height="384" alt="image" src="https://github.com/user-attachments/assets/c0fc1798-a8aa-4c98-acb6-3fc9fcbdd0e2" />
+<img width="1197" height="136" alt="image" src="https://github.com/user-attachments/assets/3e19bb94-1371-44ac-9c91-62aa98f0bde7" />
 
 
 
