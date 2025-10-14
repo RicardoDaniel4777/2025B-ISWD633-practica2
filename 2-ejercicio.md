@@ -31,7 +31,7 @@ docker run -d --name pgadmin_interno -e PGADMIN_DEFAULT_EMAIL=admin@demo.com -e 
 La figura presenta el esquema creado en donde los puertos son:
 - a: 8080
 - b: 80
-- c: (completar con el valor)
+- c: 5432 puerto interno de pgadmin
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
@@ -41,12 +41,25 @@ La figura presenta el esquema creado en donde los puertos son:
 
 <img width="1913" height="1095" alt="image" src="https://github.com/user-attachments/assets/44405e9d-47db-4d73-80a3-52718fb3506f" />
 
+<img width="1919" height="1046" alt="image" src="https://github.com/user-attachments/assets/9293d598-93e3-47a8-820b-0c0103a19b22" />
+
+<img width="868" height="676" alt="image" src="https://github.com/user-attachments/assets/8c090f13-7a25-48c2-b148-eb2698019143" />
+
 
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
+
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/f4034ad5-6756-4acc-b4fe-01d04b7d4f03" />
+
 
 ## Desde el servidor postgresl
 ### Acceder al servidor
 ### Conectarse a la base de datos info
 # COMPLETAR
 ### Realizar un select *from personas
+
+<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/4f75cc28-0d88-490a-9411-c33e956e7fb4" />
+
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+
+<img width="990" height="988" alt="image" src="https://github.com/user-attachments/assets/333b355f-3218-489b-8db4-3d5303d85f0e" />
+
