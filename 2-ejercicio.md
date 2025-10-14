@@ -48,7 +48,7 @@ La figura presenta el esquema creado en donde los puertos son:
 
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
-<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/f4034ad5-6756-4acc-b4fe-01d04b7d4f03" />
+<img width="337" height="192" alt="image" src="https://github.com/user-attachments/assets/ebdd19db-8541-423b-b18d-113b5bb6cb8b" />
 
 
 ## Desde el servidor postgresl
@@ -57,9 +57,10 @@ La figura presenta el esquema creado en donde los puertos son:
 # COMPLETAR
 ### Realizar un select *from personas
 
-<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/4f75cc28-0d88-490a-9411-c33e956e7fb4" />
+<img width="833" height="514" alt="image" src="https://github.com/user-attachments/assets/6acc78ef-e56f-4f3b-a4f8-bc573d315796" />
+
 
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+<img width="2352" height="1924" alt="image" src="https://github.com/user-attachments/assets/b419e310-8052-4738-8726-461845900933" />
 
-<img width="990" height="988" alt="image" src="https://github.com/user-attachments/assets/333b355f-3218-489b-8db4-3d5303d85f0e" />
 
