@@ -26,6 +26,9 @@ docker run --name contenedorMysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8
 De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(9300)**
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
+
+<img width="3819" height="1974" alt="image" src="https://github.com/user-attachments/assets/763ef89d-c0cf-4b99-ad71-d48ba6d19c79" />
+
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
 
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
