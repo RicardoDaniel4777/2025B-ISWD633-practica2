@@ -1,6 +1,10 @@
 ### Crear contenedor de Postgres sin que exponga los puertos. Usar la imagen: postgres:15-alpine3.21
 
-<img width="1181" height="436" alt="image" src="https://github.com/user-attachments/assets/3be327a1-5399-47c2-89c1-0be2c7f85956" />
+Debido a que el contenedor Postgres va a trabajar de forma interna (No tendra conexion directa con el host), es necesario definir un puente para conectar ambos contenedores.
+
+Usamos el siguiente comando.
+
+
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 
