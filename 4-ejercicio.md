@@ -38,6 +38,9 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### Eliminar el contenedor wordpress
 # COMPLETAR
+```
+docker rm -f wordpress_wp
+```
 
 ### Crear nuevamente el contenedor wordpress
 Ingresar a: http://localhost:9300/ 
@@ -45,4 +48,6 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### ¿Qué ha sucedido, qué puede observar?
 # COMPLETAR
+
+Al crear nuevamente el contenedor WordPress, los datos del sitio (tema, usuario, publicaciones) siguen existiendo, porque la información se guardó en la base de datos MySQL, no dentro del contenedor de WordPress.
 
